@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/castroandrade.png" width="120px;" style="border-radius:50%"/>
-  <h1>José Henrique</h1>
+  <h1>José Henrique Castro Andrade</h1>
   <p>
     <b>Engenharia da Computação | Data Science | Full-Stack em Formação</b>
   </p>
@@ -18,6 +18,21 @@
     </a>
   </p>
 </div>
+
+---
+
+## 📚 Índice
+
+1. [🔹 Sobre mim](#-sobre-mim)
+2. [🌐 Hard Skills: Redes e Internet](#-hard-skills-redes-e-internet)
+    - [Fundamentos e Topologias](#1-fundamentos-e-topologias)
+    - [Modelos de Referência](#2-modelos-de-referência-osi-vs-tcpip)
+    - [Protocolos Essenciais](#3-protocolos-essenciais)
+    - [Web e Evolução](#4-web-e-evolução)
+3. [🛠️ Hard Skills: Controle de Versão (Git)](#️-hard-skills-controle-de-versão-git)
+4. [🤝 Soft Skills](#-soft-skills)
+
+---
 
 ## 🔹 Sobre mim
 
